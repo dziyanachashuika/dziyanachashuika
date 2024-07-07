@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Diana
-** Junior QA 👩‍💻 **
+**Junior QA 👩‍💻**
 I am a creative person with the great aim to become an efficient specialist.
 
 Skills:  HTML / CSS / GIT / Postman 
